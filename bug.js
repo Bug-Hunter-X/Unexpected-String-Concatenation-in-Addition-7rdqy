@@ -1,0 +1,1 @@
+function foo(a,b){return a+b;}let x = foo(1,2);console.log(x);
